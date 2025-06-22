@@ -1,0 +1,3 @@
+edit PPSSPP.ini as follows:
+GraphicsBackend = 2 (VULKAN)
+
